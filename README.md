@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./img.png" alt="Project Banner" width="100%">
-</p>
 
 # SUDOKU WAKE 🎯
 
@@ -73,28 +70,20 @@ https://youtu.be/8ZajBI7WbR8
 
 *Explain what the video demonstrates - key features, user flow, technical highlights*
 
-### Additional Demos
-[Add any extra demo materials/links - Live site, APK download, online demo, etc.]
 
----
 
-## AI Tools Used (Optional - For Transparency Bonus)
-
-If you used AI tools during development, document them here for transparency:
-
+## AI Tools Used 
 **Tool Used:** CHATGPT
 
-**Purpose:** [What you used it for]
-- Example: "Generated boilerplate React components"
-- Example: "Debugging assistance for async functions"
-- Example: "Code review and optimization suggestions"
+**Purpose:** [
+- "To set alarm"
+- "Playing sudoku stop alarm"
 
-**Key Prompts Used:**
-- "Create a REST API endpoint for user authentication"
-- "Debug this async function that's causing race conditions"
-- "Optimize this database query for better performance"
+Key Prompts **Used:**
+- "Create a frontend for alarm app " 
+- "write code for sudoku game"
 
-**Percentage of AI-generated code:** [Approximately X%]
+**Percentage of AI-generated code:** [Approximately %]
 
 **Human Contributions:**
 - Architecture design and planning
@@ -108,10 +97,7 @@ If you used AI tools during development, document them here for transparency:
 
 ## Team Contributions
 
-- [Name 1]: [Specific contributions - e.g., Frontend development, API integration, etc.]
-- [Name 2]: [Specific contributions - e.g., Backend development, Database design, etc.]
-- [Name 3]: [Specific contributions - e.g., UI/UX design, Testing, Documentation, etc.]
-
+- Hiba Sherin.k:frontend,implimantation of code
 ---
 
 ## License
